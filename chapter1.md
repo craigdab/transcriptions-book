@@ -1,12 +1,13 @@
-\textit{ The music we choose today can affect students forever.\footnote{F Fennell in TL Dvorak, R Grechesky \& GM Ciepluch, \textit{Best music for high school band,} ed. Bob Margolis, Manhattan Beach Music, Brooklyn, 1993, p.~7.}\\ 
-    --- Frederick Fennell\\
-    }
+> The music we choose today can affect students forever.[^1]
+> --- Frederick Fennell
+
+  [^1]: F Fennell in TL Dvorak, R Grechesky & GM Ciepluch, *Best music for high school band,* ed. Bob Margolis, Manhattan Beach Music, Brooklyn, 1993, p. 7.
 
 \bigskip
 
 \section{The importance of repertoire}
 
-Since the early 1900s conductors with a love for the wind band medium have been advocating for it to be considered as a serious vehicle for musical expression. To this end, conductors pursued the goal of establishing a standard wind band repertoire to replace the band's heavy use of orchestral transcriptions: a repertoire of compositions of high aesthetic worth that would one day be the equivalent of the standard orchestral repertoire. In 1921, Arthur Clapp\'{e},\index{Clapp\'{e}, Arthur} Director of the U.S. Army Music School, in the preface of his book, \textit{The Principles of Wind-Band Transcription}, articulated this desire. 
+Since the early 1900s conductors with a love for the wind band medium have been advocating for it to be considered as a serious vehicle for musical expression. To this end, conductors pursued the goal of establishing a standard wind band repertoire to replace the band's heavy use of orchestral transcriptions: a repertoire of compositions of high aesthetic worth that would one day be the equivalent of the standard orchestral repertoire. In 1921, Arthur Clapp\'{e},\index{Clapp\'{e}, Arthur} Director of the U.S. Army Music School, in the preface of his book, \textit{The Principles of Wind-Band Transcription}, articulated this desire.
 
 
 \begin{quote}
@@ -72,7 +73,7 @@ independent exploration of music, either as a performer or a listener.\footnote{
 
 One of the counterarguments to the Budiansky and Foley article was that ``the dearth of original music for wind band makes it important for bands to
 support the composition and performance of new works written specifically for band and to
-avoid relying on transcriptions of orchestral or other works.''\footnote{Budiansky \& Foley.} My response to this criticism is, ``Why?'' Why can't we rely on transcriptions of orchestral works to teach our students at the primary and high school level? 
+avoid relying on transcriptions of orchestral or other works.''\footnote{Budiansky \& Foley.} My response to this criticism is, ``Why?'' Why can't we rely on transcriptions of orchestral works to teach our students at the primary and high school level?
 
 \begin{quote}
 All great musicians, as Arnold Jacobs observed, have no qualms whatsoever in playing
@@ -88,7 +89,7 @@ quantity of high-quality, non-simplified transcriptions of great music originall
 orchestrations.\footnote{Budiansky \& Foley.}
 \end{quote}
 
-As stated in the quote above, it is not the core business of school music programs to promote original band music, to the detriment of students' overall study of music. It is more important to educate students in ``music'' rather than ``band music''. 
+As stated in the quote above, it is not the core business of school music programs to promote original band music, to the detriment of students' overall study of music. It is more important to educate students in ``music'' rather than ``band music''.
 
 Pressures of an overloaded curriculum add to the problem. Teachers need to cover music theory, analysis, composition and performance including singing and solfege, as well as a variety of styles such as folk, world music, rock, and jazz. Students are graduating high school having heard possibly only a few of the great works of musical literature, and even then, they have not really experienced it.
 
@@ -102,10 +103,10 @@ The movement to create a standard high-quality band repertoire has not failed. F
 
 The counter-argument to this is what percentage of all the music ever written for orchestra was so memorable that it is now considered ``standard repertoire''? Libraries around the world are filled with music for orchestra that will also never be played again. Is the band medium just too young? Or is the style of composition not engaging the emotions of players, audiences and conductors for it to be committed to our long-term memory as works of great artistic merit?
 
-However, as mentioned above, the creation of a standard band repertoire is not the primary responsibility of school music programs. Providing students with an education that encompasses the greatest of compositions is. And although pleasing the audience should not be a goal of education either, performances that feature the most famous of orchestral classics will undoubtedly impress the audience more than the standard music education works that currently fill our concert programs. 
+However, as mentioned above, the creation of a standard band repertoire is not the primary responsibility of school music programs. Providing students with an education that encompasses the greatest of compositions is. And although pleasing the audience should not be a goal of education either, performances that feature the most famous of orchestral classics will undoubtedly impress the audience more than the standard music education works that currently fill our concert programs.
 
 \section{Repertoire lists}
-Selecting repertoire is a time-intensive activity for conductors. The conductor must analyse the goals of the music program, the requirements of the concerts (whether they are themed or ceremonial occasions), the technical level of the composition, and most importantly, its aesthetic quality, so it is no wonder that lists of recommended repertoire chosen by experts in the field, are so popular with time-poor conductors. 
+Selecting repertoire is a time-intensive activity for conductors. The conductor must analyse the goals of the music program, the requirements of the concerts (whether they are themed or ceremonial occasions), the technical level of the composition, and most importantly, its aesthetic quality, so it is no wonder that lists of recommended repertoire chosen by experts in the field, are so popular with time-poor conductors.
 
 \subsection{Competitions}
 For those whose school year is dominated by competitions, some of this responsibility for repertoire selection is taken from the conductor, who must select his repertoire from the list provided by the competition organisers. Participating in a competition, besides being educationally unsound (music is an art, not a sport), will see the conductor selecting their repertoire from a narrow field and with different goals in mind than music education.
@@ -132,25 +133,25 @@ Band repertoire books are incredibly useful. As Bob Margolis put it in the quote
 
 The following repertoire lists will be analysed:
 
-\begin{itemize}	
+\begin{itemize}
 	\item Blueprint for Band (Robert Garofalo, 1976), reprinted in \textit{Teaching Music Through Performance in Band,} vol. 1, pp. 70--73 [BfB]
-		
+
 	\item Best Music for Young Band (Thomas L. Dvorak, 1986) [BMYB]\footnote{The Contemporary category from this book contains works by Bartok, Grainger, Hovhaness, Ives, Kabalevsky, Nelhybel, Walton, Clifton Williams and Sousa.}
-		
+
 	\item The Basic Band Curriculum (\textit{BD Guide,} September/October 1987), reprinted in \textit{Teaching Music Through Performance in Band,} vol. 1, pp. 68--69 [BBC]
 
 	\item Best Music for High School Band (Dvorak, Grechesky, Ciepluch, 1993) [BMHSB]. Part III: Music for Wind Ensemble was omitted from the following analysis.
-	
+
 	\item Teaching Musicianship in the High School Band (Joseph A. Labuta, 1996), reprinted in \textit{Teaching Music Through Performance in Band,} vol. 1, pp. 73--78 [TM]
-	
+
 	\item Best Music for Beginning Band (Thomas L. Dvorak, Richard L. Floyd, ed. Bob Margolis, 2000) [BMBB]
-	
+
 	\item Teaching Music Through Performance in Band, vols. 1--8 (ed. Miles, 1997--2011) [TMPB]
-		
+
 	\item Teaching Music Through Performance in Beginning Band, vols. 1--2 (ed. Miles, 2001, 2008) [TMPBB]
-	
+
 	\item Recommended Curriculum Sequence (Richard Miles, 2009), printed in \textit{Teaching Music Through Performance in Band,} vol. 7, appendix B, pp. 1043--1062 [RM]
-	
+
 \end{itemize}
 
 \marginnote{Level 1 = Very easy \\
@@ -162,7 +163,7 @@ The following repertoire lists will be analysed:
 }
 
 \small
-	
+
 \begin{longtabu}[h]{ l r r r r r r r r }
 Resource & Year & Total & Lvl 1 & Lvl 2 & Lvl 3 & Lvl 4 & Lvl 5 & Lvl 6 \\ \hline
 
@@ -191,7 +192,7 @@ BMBB & 66 & 100\% & - & - & - & - & - \\
 TMPBB & & - & - & - & - \\
 RM & 336 & - & 51 & 61 & 57 & 99 & 68 \\
 TMPB \\
-	
+
 \caption{Table showing percentage of total by grade level}
 \end{longtabu}
 
@@ -255,7 +256,7 @@ In my experience, a paradigm shift of the purpose of primary and high school mus
 
 I have my own list of pieces and they were originally composed for a variety of mediums. It's now a lot longer than sixty, but every one of these pieces deserves to be there and any band composition has to \textit{earn} a place on my list.
 
-The following eloquent passage by David Whitwell is, to me, a perfect summation of this topic: 
+The following eloquent passage by David Whitwell is, to me, a perfect summation of this topic:
 
 \begin{quotation}
 Music will always represent the culture from which it springs. The general musical practice of a people can never rise above the culture of the people; primitive people will always be represented by primitive music. It is here that some American music educators make the unbelievable error of treating the art music of Western Europe as a mere category among the music of the world's people. The implication they suggest is that all music is equal, since it is all music. But this is not true. An igloo is not the Chartres Cathedral and they differ not so much in architectural description as they do in the levels of culture they represent.
@@ -263,7 +264,3 @@ Music will always represent the culture from which it springs. The general music
 The fact is that the cultural heritage of Western Europe is not ``the culture of a certain time and place,'' as educators label it. It is rather the accumulation of the experience of Western man himself. The nineteenth-century masterpieces of music of Western Europe are not just representatives of nineteenth-century Western Europe, they are the highest chapter of development in something which began four thousand years earlier with equal roots in Greece, Rome, Egypt and the Near East. It is the art music of all Western men. To call nineteenth-century German music ``German,'' is to betray a poor understanding of Western Civilization. For teachers to not want to pass on the highest achievements of man to the next generation, is a dereliction of duty.\footnote{D Whitwell, \textit{Aesthetics of music in ancient civilizations,} ed. Craig Dabelstein, 2nd edn, Whitwell Publishing, Austin, 2011, p. 8.}
 
 \end{quotation}
-
-
-
-

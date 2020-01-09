@@ -3,91 +3,52 @@
 
   [^1]: F Fennell in TL Dvorak, R Grechesky & GM Ciepluch, *Best music for high school band,* ed. Bob Margolis, Manhattan Beach Music, Brooklyn, 1993, p. 7.
 
-\bigskip
 
-\section{The importance of repertoire}
+# The importance of repertoire
 
-Since the early 1900s conductors with a love for the wind band medium have been advocating for it to be considered as a serious vehicle for musical expression. To this end, conductors pursued the goal of establishing a standard wind band repertoire to replace the band's heavy use of orchestral transcriptions: a repertoire of compositions of high aesthetic worth that would one day be the equivalent of the standard orchestral repertoire. In 1921, Arthur Clapp\'{e},\index{Clapp\'{e}, Arthur} Director of the U.S. Army Music School, in the preface of his book, \textit{The Principles of Wind-Band Transcription}, articulated this desire.
+Since the early 1900s conductors with a love for the wind band medium have been advocating for it to be considered as a serious vehicle for musical expression. To this end, conductors pursued the goal of establishing a standard wind band repertoire to replace the band's heavy use of orchestral transcriptions: a repertoire of compositions of high aesthetic worth that would one day be the equivalent of the standard orchestral repertoire. In 1921, Arthur Clapp\'{e},\index{Clapp\'{e}, Arthur} Director of the U.S. Army Music School, in the preface of his book, *The Principles of Wind-Band Transcription,* articulated this desire.
 
+> Compositions of the first rank have yet to be written for the wind band.\footnote{At the time of writing he may have been unaware of the compositions of Holst and Grainger.} For which reason, skillful musicians have been compelled to transcribe such works from among ``scores'' written for orchestra, organ, pianoforte, and voices.
+...
+Herein, the effort is made to exhibit [the wind band's] more varied possibilities and furnish grounds for the claim, that, when seriously treated, the wind band is entitled to be regarded as a potential factor in the musical arena.
+...
+It is hoped that this book will assist in widening the horizon generally believed to circumscribe the capabilities of wind instruments, and lead to a higher conception than at present obtains of the wind-band as a musical organism of great potency and high mission.\footnote{AA Clappé, \textit{The principles of wind-band transcription,} Carl Fischer, New York, 1921, pp. iii--iv.}
 
-\begin{quote}
-Compositions of the first rank have yet to be written for the wind band.\footnote{At the time of writing he may have been unaware of the compositions of Holst and Grainger.} For which reason, skillful musicians have been compelled to transcribe such works from among ``scores'' written for orchestra, organ, pianoforte, and voices.\\
-\ldots\\
-Herein, the effort is made to exhibit [the wind band's] more varied possibilities and furnish grounds for the claim, that, when seriously treated, the wind band is entitled to be regarded as a potential factor in the musical arena.\\
-\dots\\
-It is hoped that this book will assist in widening the horizon generally
-believed to circumscribe the capabilities of wind instruments, and lead
-to a higher conception than at present obtains of the wind-band as a
-musical organism of great potency and high mission.\footnote{AA Clappé, \textit{The principles of wind-band transcription,} Carl Fischer, New York, 1921, pp. iii--iv.}
-
-\end{quote}
-
-During the century, as the need for band music increased, the market driven forces of the publishing industry and the increased popularity of school music competitions combined with a degrading of teachers' aesthetic judgement,  resulted in several generations of band students and conductors being raised on a very narrow stylistic band of music. Some conductors, especially those with careers outside of the band education sphere, became increasingly frustrated with the aesthetic standard of music being published and taught to school students.\\
-
-\medskip
+During the century, as the need for band music increased, the market driven forces of the publishing industry and the increased popularity of school music competitions combined with a degrading of teachers' aesthetic judgement,  resulted in several generations of band students and conductors being raised on a very narrow stylistic band of music. Some conductors, especially those with careers outside of the band education sphere, became increasingly frustrated with the aesthetic standard of music being published and taught to school students.
 
 Frederick Fennell
-\begin{quote}
-Choosing music is the single most important thing a band director can do, and is the only thing a band director can do alone, made more important because of the substandard repertoire continually being published.\footnote{Fennell in Dvorak, Grechesky \& Ciepluch, p. 7.}
-\end{quote}
+
+> Choosing music is the single most important thing a band director can do, and is the only thing a band director can do alone, made more important because of the substandard repertoire continually being published.\footnote{Fennell in Dvorak, Grechesky \& Ciepluch, p. 7.}
 
 Frank Battisti
-\begin{quote}
-The kind of music you play truly matters. While the music a band plays will help students to develop musicianship and technical skills, only the best music will allow students to fully appreciate band music for the true art form it is. In musical terms, we become what we experience.\footnote{F Battisti in TL Dvorak \& RL Floyd, \textit{Best music for beginning band: A selective repertoire guide to music and methods for beginning band,} ed. Bob Margolis, Manhattan Beach Music, Brooklyn, 2000, p. 11.}
-\end{quote}
 
-\begin{quote}
-A great deal of the literature published and performed today by wind bands is devoid of any truly significant musical/expressive quality. When a conductor selects music of this quality, he/she radically diminishes the potential of the music experience for both players and listeners.\footnote{F Battisti, \textit{The winds of change,} Meredith Music, Galesville, MD, 2002, p. 243.}
-\end{quote}
+> The kind of music you play truly matters. While the music a band plays will help students to develop musicianship and technical skills, only the best music will allow students to fully appreciate band music for the true art form it is. In musical terms, we become what we experience.\footnote{F Battisti in TL Dvorak \& RL Floyd, \textit{Best music for beginning band: A selective repertoire guide to music and methods for beginning band,} ed. Bob Margolis, Manhattan Beach Music, Brooklyn, 2000, p. 11.}
 
+> A great deal of the literature published and performed today by wind bands is devoid of any truly significant musical/expressive quality. When a conductor selects music of this quality, he/she radically diminishes the potential of the music experience for both players and listeners.\footnote{F Battisti, \textit{The winds of change,} Meredith Music, Galesville, MD, 2002, p. 243.}
 
 H. Robert Reynolds
-\begin{quote}
-Perhaps the most important task to face all conductors is the choice of the most appropriate literature \ldots\ The selection of quality music is further complicated by the deluge of superficial publications which constantly emerge each year to attract our attention.\footnote{HR Reynolds in TL Dvorak, CC Taggart \& P Schmalz, \textit{Best music for young band: a selective guide to the young band/young wind ensemble repertoire,} ed. Bob Margolis, Manhattan Beach Music, Brooklyn, 1986, p. 6.}
-\end{quote}
+
+> Perhaps the most important task to face all conductors is the choice of the most appropriate literature \ldots\ The selection of quality music is further complicated by the deluge of superficial publications which constantly emerge each year to attract our attention.\footnote{HR Reynolds in TL Dvorak, CC Taggart \& P Schmalz, \textit{Best music for young band: a selective guide to the young band/young wind ensemble repertoire,} ed. Bob Margolis, Manhattan Beach Music, Brooklyn, 1986, p. 6.}
 
 Thomas L. Dvorak
-\begin{quote}
-It is extremely encouraging to all of us who value the musical growth of the young that a substantial repertoire of aesthetic character exists for them.\footnote{Dvorak, Taggart \& Schmalz, p. 7.}
-\end{quote}
+
+> It is extremely encouraging to all of us who value the musical growth of the young that a substantial repertoire of aesthetic character exists for them.\footnote{Dvorak, Taggart \& Schmalz, p. 7.}
 
 No-one would dispute these comments, and yet many band conductors, who must feel that this criticism is directed at someone else, continue to program poor quality repertoire.
 
-It has been said before, ``the repertoire \textit{is} the curriculum''. Would it be preferable to rehearse below average music with an outstanding conductor, or to rehearse outstanding music with a below average conductor. I know which I would prefer. Conductors need to invest time and thought into repertoire selection. Without the right compositions in the musicians' folders, no amount of teaching skill or enthusiasm will help students develop a love of music.
+It has been said before, "the repertoire *is* the curriculum". Would it be preferable to rehearse below average music with an outstanding conductor, or to rehearse outstanding music with a below average conductor. I know which I would prefer. Conductors need to invest time and thought into repertoire selection. Without the right compositions in the musicians' folders, no amount of teaching skill or enthusiasm will help students develop a love of music.
 
-\section{How did we get here?}
-\begin{quote}
-The problem is not how they play. It's what they play.\footnote{S Budiansky, \textit{The Washington Post,} `The Kids Play Great. But That Music \ldots', 30 January 2005, p. B03.}
-\end{quote}
+# How did we get here?
 
-In 2005, journalist Stephen Budiansky wrote an article for \textit{The Washington Post} entitled ``The Kids Play Great. But That Music \ldots''. In this article he did not criticise the ability of music teachers to teach the skills of playing an instrument, or their classroom management skills or their enthusiasm, but he heavily criticised their choice of repertoire. Budiansky's article, and his followup with Timothy Foley for the \textit{Journal of the World Association for Symphonic Bands and Ensembles} was polarising. Budiansky admits that these articles ``caused more trouble than I ever imagined possible.''  Some identified with him and the problem immediately while many others believed his was an unfair attack on composers and the profession.
+> The problem is not how they play. It's what they play.\footnote{S Budiansky, \textit{The Washington Post,} `The Kids Play Great. But That Music \ldots', 30 January 2005, p. B03.}
 
-\begin{quotation}
-Music composed specifically for school band is
-formulaic, emotionally superficial, monotonously alike, dull, and didactic; that it fails to inspire
-students; and that by being removed from any genuine living musical tradition, classical or
-popular, it fails to provide students with a true musical education or the basis for further
-independent exploration of music, either as a performer or a listener.\footnote{S Budiansky \& TW Foley, `The quality of repertoire in school music programs: literature review, analysis, and discussion', \textit{Journal of the World Association for Symphonic Bands and Ensembles,} vol. 12, 2005, pp. 17--39.}\\
+In 2005, journalist Stephen Budiansky wrote an article for \textit{The Washington Post} entitled *The Kids Play Great. But That Music ..."*. In this article he did not criticise the ability of music teachers to teach the skills of playing an instrument, or their classroom management skills or their enthusiasm, but he heavily criticised their choice of repertoire. Budiansky's article, and his followup with Timothy Foley for the \textit{Journal of the World Association for Symphonic Bands and Ensembles} was polarising. Budiansky admits that these articles "caused more trouble than I ever imagined possible."  Some identified with him and the problem immediately while many others believed his was an unfair attack on composers and the profession.
 
-\end{quotation}
+> Music composed specifically for school band is formulaic, emotionally superficial, monotonously alike, dull, and didactic; that it fails to inspire students; and that by being removed from any genuine living musical tradition, classical or popular, it fails to provide students with a true musical education or the basis for further independent exploration of music, either as a performer or a listener.\footnote{S Budiansky \& TW Foley, `The quality of repertoire in school music programs: literature review, analysis, and discussion', \textit{Journal of the World Association for Symphonic Bands and Ensembles,} vol. 12, 2005, pp. 17--39.}
 
-One of the counterarguments to the Budiansky and Foley article was that ``the dearth of original music for wind band makes it important for bands to
-support the composition and performance of new works written specifically for band and to
-avoid relying on transcriptions of orchestral or other works.''\footnote{Budiansky \& Foley.} My response to this criticism is, ``Why?'' Why can't we rely on transcriptions of orchestral works to teach our students at the primary and high school level?
+One of the counterarguments to the Budiansky and Foley article was that "the dearth of original music for wind band makes it important for bands to support the composition and performance of new works written specifically for band and to avoid relying on transcriptions of orchestral or other works." \footnote{Budiansky \& Foley.} My response to this criticism is, "Why?" Why can't we rely on transcriptions of orchestral works to teach our students at the primary and high school level?
 
-\begin{quote}
-All great musicians, as Arnold Jacobs observed, have no qualms whatsoever in playing
-transcriptions as part of their essential musical education. Playing the music of the masters,
-becoming familiar with the style and imagination of the greatest music of all genres, is how
-fundamental musical sensibility is developed. Whatever may be the arguments for promoting
-original band music as a performance goal for professional wind ensembles, such considerations
-cannot be relevant to the education of students. The objective of repertoire selection at the
-secondary school level---and even at the college level---should be to expose students to a rich
-variety of the best music that will provide them a grounding for a lifetime of artistic appreciation
-and enjoyment. In the case of band students, that inescapably means including a significant
-quantity of high-quality, non-simplified transcriptions of great music originally written for other
-orchestrations.\footnote{Budiansky \& Foley.}
-\end{quote}
+> All great musicians, as Arnold Jacobs observed, have no qualms whatsoever in playing transcriptions as part of their essential musical education. Playing the music of the masters, becoming familiar with the style and imagination of the greatest music of all genres, is how fundamental musical sensibility is developed. Whatever may be the arguments for promoting original band music as a performance goal for professional wind ensembles, such considerations cannot be relevant to the education of students. The objective of repertoire selection at the secondary school level---and even at the college level---should be to expose students to a rich variety of the best music that will provide them a grounding for a lifetime of artistic appreciation and enjoyment. In the case of band students, that inescapably means including a significant quantity of high-quality, non-simplified transcriptions of great music originally written for other orchestrations.\footnote{Budiansky \& Foley.}
 
 As stated in the quote above, it is not the core business of school music programs to promote original band music, to the detriment of students' overall study of music. It is more important to educate students in ``music'' rather than ``band music''.
 

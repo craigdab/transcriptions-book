@@ -1,4 +1,4 @@
-# chapter2
+# Chapter 2
 
 \textit{There is no instrumental ensemble that extends further back in history than the wind band.\footnote{RB Miles \(ed\), \textit{Teaching music through performance in band,} vol. 6, GIA Publications, Chicago, 2007, p. XX.}\ --- Eugene Corporon\}
 

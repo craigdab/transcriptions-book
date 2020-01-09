@@ -1,4 +1,4 @@
-# chapter3
+# Chapter 3
 
 \textit{It is certain that assessing the value of music is a matter of personal judgment \ldots De gustibus non est disputandum: Concerning tastes there is no disputing.\footnote{Dvorak, Taggart \& Schmalz, p. 8. }\ --- Bob Margolis\ }
 

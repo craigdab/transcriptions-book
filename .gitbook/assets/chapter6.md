@@ -1,0 +1,248 @@
+\section{Wilhelm Wieprecht}
+
+Arrangements for Military Band by Wilhelm Wieprecht
+Mid to late 1800s
+
+\begin{longtabu}{ l l }
+\textsc{Composer} & \textsc{Title}\\ \hline \endhead
+Beethoven & Overure to Egmont\\
+Beethoven & Overture to Coriolan\\
+Beethoven & Overture to Prometheus\\
+Beethoven & Symphony Nr. 2, for Infantry band\\
+Beethoven & Symphony Nr. 3, for combined Infantry and Cavalry bands\\
+Beethoven & Symphony Nr. 5, for Infantry band\\
+Beethoven & Symphony Nr. 7, for Infantry band\\
+Beethoven & Symphony Nr. 9, for combined Infantry and Cavalry bands\\
+Beethoven & Symphony, Die Schlacht bei Vittoria\\
+Beethoven & Trios for piano, violin and cello, for Harmonie musik, Nrs. 1, 2 and 3\\
+Beethoven & Sonate pathetique, for Orchester Harmome\\
+Beethoven & Trauermarsch, aus Ab Sonate\\
+Gluck & Overture to Armide\\
+Gluck & Finale from Armide\\
+Handel & Chorus from Messiah\\
+Handel & Marsch from Messiah\\
+Mehul & Overture from Joseph in Egypten\\
+Mehul & Overture from La chasse Henri IV\\
+Mendelssohn & Overture from Antigone\\
+Mendelssohn & Overture from Die Schone Melusine\\
+Mendelssohn & Overture from Hebriden\\
+Mendelssohn & Marsch from Sommernachtstraum\\
+Mendelssohn & Overture militaire\\
+Meyerbeer & Overture from Feldlager in Schlesien\\
+Meyerbeer & Overture from Die hugenottenn\\
+Meyerbeer & Overture from Dinorah\\
+Meyerbeer & Fackeltanze Nr. 1, 2, 3 and 4\\
+Meyerbeer & Overture from Struensee\\
+Meyerbeer & Kronungsmarsch from Prophet\\
+Meyerbeer & Kronungsmarsch for two bands (and various works from Meyerbeer's operas)\\
+Mozart & Overture from Don Juan\\
+Mozart & Overture from Die Zauberflote\\
+Mozart & Overture from Figaros hochzeit\\
+Mozart & Overture from Titus\\
+Mozart & First Finale from Don Juan\\
+Mozart & Great C minor Fantaisie\\
+Mozart & C Major Symphony with Fugue\\
+Righini & Music from the Ballet, Die Wiederbelebung der Statuen des Daedalus\\
+Rossini & Overrure from William Tell\\
+Rossini & Overture from Die dibischc Elster\\
+Rossini & Overture from Othello\\
+Rossini & Overture from Trancred\\
+Rossini & Finale from Semiramis\\
+Spontini & Overture from Olympia\\
+Spontini & Overture from Ferdinand Cortez\\
+Spontini & Overture from Die Vestalin\\
+Spontini & Overture from Agnes von hohenstaufen\\
+Spontini & Ballet works from Olympia\\
+Spontini & Ballet works from Aleidor\\
+Abt Vogler & The complete music from the opera, Hermann von Unna\\
+Wagner & Overture from Rienzi\\
+Wagner & Entrance of the Guestsn in Wartburg from Tannhauser\\
+Wagner & Entrance and Bridal Chorus from Lohengrin\\
+Weber & Overture from Der Freischiitz\\
+Weber & Overture from Oberon\\
+Weber & Overture from Euryanthe\\
+Weber & Invitation to the Dance in a free arrangement\\
+Weber & Jubel-Overrure\\
+\end{longtabu}
+
+
+
+
+Q: How many bands in the world would have material like this in their repertoire or have the ability to perform it well.
+
+Q: How many band conductors would feel comfortable leading their ensembles through this repertoire?
+
+Q: Were band musicians and conductors in the 1800s better than they are today?
+
+\null\newpage
+\section{Mark Hindsley}
+
+REWRITE THIS - COPIED FROM http://hindsleytranscriptions.com/about-dr-hindsley/
+
+A graduate of Indiana University “with high distinction” in 1925, Mark Hindsley served as band director and music instructor at Indiana until 1929. From 1929 to 1934 he was Director of Instrumental Music in the schools of Cleveland Heights, Ohio, conducting the high school bands and orchestras, with first divisions in concert and marching at national band contests. From 1934 to 1948 he was Assistant Director of Bands at the University of Illinois, director of the Marching Illini and conductor of the First Regimental Band, with wind instrument teaching in the School of Music; this period was interrupted by military service from 1942 to 1946, as staff music officer of the Army Air Forces Training Command, and for the last six months band and orchestra conductor and teacher of conducting at the Biarritz American University in France, attaining the rank of lieutenant colonel and earning the Army Commendation Medal. Succeeding Albert Austin Harding as Director of Bands at Illinois in 1948, he was active in that position and as Professor of Music until his retirement in 1970.
+
+A past president of both the College Band Directors National Association (1947) and the American Bandmasters Association (1957-58), Dr. Mark Hindsley has appeared throughout the nation and in other countries as guest conductor, clinician and adjudicator, and on the summer staffs of many other colleges and universities. His recordings of the University of Illinois Concert Band and his transcriptions of historical masterpieces are highly acclaimed at home and abroad. He is the author of seven books and more than 40 magazine articles on instrumental music. He was awarded the honorary degree Doctor of Music by his alma mater, Indiana University. Among his many other honors are a Citation of Merit from the University of Illinois Foundation; Fellow of the International Institute of Arts and Letters; the Edwin Franko Goldman award of the American School Band Directors Association; the Outstanding Bandmaster award of Phi Beta Mu; the Distinguished Service to Music medal of Kappa Kappa Psi; election to the Academy of Wind and Percussion Arts, with the “Oscar” of the National Band Association; Hall of Fame of Distinguished Band Conductors; Meritorious Service Award of the Illinois Music Educators Association; recipient of the Sudler Medal of the Order of Merit from the John Philip Sousa Foundation; Historic Roll of Honor of High School Bands 1920-1960; profiled as one of the seven legends in Music Education in the 50th Anniversary issue of The Instrumentalist; installed in the Ohio Pioneer Band Director Hall of Fame; and named Honorary Life President of the American Bandmasters Association in 1996.
+
+After a forty-five year formal career and several years of “retirement”, Dr. Hindsley continued to serve as guest conductor, adjudicator, clinician, writer, and publisher of many of his manuscript transcriptions and his books, HINDSLEY ON BANDS (The Gospel According to Mark) and MY BANDS AND I (A Love Story). In 1993 he transferred the publication and distribution responsibilities of his transcriptions to his son, Robert Hindsley.\footnote{Transcriptions by Mark Hindsley are available from hindsleytranscriptions.com}
+
+
+{\footnotesize
+\begin{longtable}{ l l c c }
+\caption{Transcriptions by Mark Hindsley}\\
+Composer & Title & Grade & Duration\\ \hline
+Bach & Air from D Major Suite & 3 & 3:08\\
+Bach & Come, Sweet Death & 3	 & 4:00\\
+Bach & Jesu, Joy of Man’s Desiring & 3 & 3:38\\
+Bach & Toccata and Fugue in D Minor & 6 & 8:59\\
+Bach-Abert & Prelude, Chorale and Fugue & 5 & 11:01\\
+Beethoven & Egmont Overture & 5 & 8:53\\
+Beethoven & Leonore No. 3 – Overture & 6 & 15:49\\
+Borodin & Polovetsian Dances & 6 & 15:22\\
+Brahms & Academic Festival Overture & 5 & 10:15\\
+Brahms & Symphony No. 1 – 1st Movement & 5 & 13:25\\
+Brahms & Symphony No. 1 – 2nd-3rd Movements & 5 & 14.30\\
+Brahms & Symphony No. 1 – Finale & 6 & 17:36\\
+Brahms & Variations on a Theme by Haydn & 6 & 17:09\\
+Bruch & Concerto for Violin (Gm) & 5 & 24:51\\
+Chabrier & 	Espana Rhapsody & 5 & 6:43\\
+Corelli & Christmas Concerto & 5 & 16:28\\
+D’Albert & 	The Improvisator & 5 & 4:50\\
+Debussy & Prelude to the Afternoon of a Faun & 5 & 10:31\\
+Dukas & The Sorcerer’s Apprentice & 6 & 10:46\\
+Dvorak & New World Symphony – 1st Movement & 5 & 8:30\\
+Dvorak & New World Symphony – 2nd-3rd Movements & 5 & 17:50\\
+Dvorak & New World Symphony – Finale & 5 & 11:55\\
+Glinka & Russian and Ludmilla – Overture & 5 & 5:56\\
+Griffes & The White Peacock & 5 & 4:40\\
+Handel & Music for the Royal Fireworks & 5 & 15:01\\
+Handel & Where’er You Walk & 3 & 4:59\\
+Haydn & Military Symphony (100) & 5 & 23:16\\
+Liszt & Les Preludes & 6	 & 14:21\\
+Mendelssohn & Scherzo from Midsummer Night’s Dream & 6 & 4:54\\
+Moussorgsky & Night on the Bare (Bald) Mountain & 5 & 12:07\\
+Moussorgsky & Pictures at an Exhibition & 6 & 31:13\\
+Ravel & Daphnis and Chloe – Second Suite & 6 & 15:32\\
+Ravel & Pavane (infante defunte) & 4 & 5:43\\
+Rimsky-Korsakov & Capriccio Espagnol & 6 & 16:12\\
+Rimsky-Korsakov & Scheherazade – I. The Sea and Sinbad’s Ship & 5 & 9:53\\
+Rimsky-Korsakov & Scheherazade – II. The Story of the Kalandar Prince & 6 & 11:35\\
+Rimsky-Korsakov & Scheherazade – III. The Young Prince and Princess & 5 & 11:02\\
+Rimsky-Korsakov & Scheherazade – IV. Festival at Bagdad & 6 & 11:38\\
+Saint-Saens & Danse Macabre & 5 & 7:37\\
+Saint-Saens & Marche Militaire Francaise & 5 & 4:25\\
+Saint-Saens & Organ Symphony (No. 3) – Part I & 6 & 19:20\\
+Saint-Saens & Organ Symphony (No. 3) – Part II & 6 & 15:38\\
+Saint-Saens & Phaeton (Symphonic Poem) & 5 & 9:13\\
+Schubert & 	Rosamunde-Overture & 5 & 9:28\\
+Sibelius &	Finlandia & 4 & 7:49\\
+Sousa & El Capitan & 4 & 2:25\\
+Sousa & King Cotton & 3 & 2:43\\
+Sousa & Manhattan Beach & 3 & 2:07\\
+Sousa & Semper Fidelis & 4 & 2:38\\
+Sousa & The Stars and Stripes Forever & 4 & 3:32\\
+Strauss, R. & Don Juan & 6 & 18:26\\
+Strauss, R. & A Hero’s Life & 6 & 22:46\\
+Strauss, R. & Salome’s Dance (Seven Veils) & 6 & 9:11\\
+Strauss, R. & Thus Spake Zarathustra & 7 & 32:24\\
+Strauss, R. & Till Eulenspiegel’s Merry Pranks & 6 & 15:20\\
+Tschaikowsky	 & Capriccio Italien & 6 & 16:31\\
+Tschaikowsky	 & Nutcracker Suite & 5 & 23:29\\
+Tschaikowsky	 & Overture 1812 & 6 & 15:16\\
+Tschaikowsky	 & Romeo and Juliet & 6 & 19:08\\
+Tschaikowsky	 & Symphony No. 4 – Finale & 5 & 8:59\\
+Tschaikowsky	 & Symphony No. 5 – 2nd Movement & 5 & 11:56\\
+Tschaikowsky	 & Symphony No.6 – 1st Movement & 6 & 16:44\\
+Tschaikowsky	 & Symphony No. 6 – 3rd Movement (March) & 6 & 9:04\\
+Tschaikowsky	 & Violin Concerto & 6 & 32:57\\
+Wagner & The Flying Dutchman – Overture & 6 & 10:15\\
+Wagner & Lohengrin – Elsa’s Procession & 4 & 5:17\\
+Wagner & Lohengrin – Introduction to Act III & 5 & 3:11\\
+Wagner & Die Meistersinger – Overture & 5 & 9:18\\
+Wagner & The Ride of the Valkyries & 5 & 5:27\\
+Wagner & Rienzi – Overture & 6 & 10:55\\
+Wagner & Tannhauser – Overture & 6 & 13:06\\
+Wagner & Tristan and Isolde – Prelude and Love Death & 5 & 14:40\\
+Weber & Euryanthe – Overture & 6 & 7:52\\
+Weber & Oberon – Overture & 5 & 9:21\\
+\end{longtable}
+}
+
+
+
+
+\null\newpage
+\section{Lucien Cailliet}
+
+REWRITE - COPIED FROM WIKIPEDIA
+
+Lucien Cailliet (May 22, 1891 – January 3, 1985)[1] was a French-American composer, conductor, arranger and clarinetist.
+
+Born at Dijon, in France, Cailliet studied at the Conservatory in his native city before migrating to the United States in 1918.
+
+Cailliet worked as staff arranger for the Philadelphia Orchestra. During this time, he founded the Cherry Hill Wind Symphony, which would later become the Wind Symphony of Southern New Jersey.
+
+Cailliet is well known among wind musicians for his faithful arrangements of orchestral music for wind ensemble. In particular, his arrangements of Elsa's Procession to the Cathedral (from Wagner's opera Lohengrin) and Finlandia (a symphonic poem by Jean Sibelius) have become staples of the wind ensemble repertory.
+
+Lucien Cailliet served as Associate Conductor of The Allentown Band (Pennsylvania) from 1934 until 1969. During that period, he conducted many of his arrangements on Allentown Band Concerts. In 1938, he dedicated his "Variations on the Theme Pop! Goes the Weasel" to The Allentown Band, an arrangement that continues to be a favorite or both bands and orchestras to this day. The renowned composer and arranger studied at several French music conservatories before graduating from the Dijon Conservatory at age twenty-two. He also received a degree from the National Conservatory in Paris. He was a bandmaster in the French Army and, in 1915, he toured the United States with the French Army Band. In 1919, he joined the Philadelphia Orchestra as a clarinetist, saxophonist, and arranger, where he worked closely with Leopold Stokowski. In 1923, at age thirty-two, Cailliet became an American citizen and continued to play with the Philadelphia Orchestra while attending graduate school at the Philadelphia Musical Academy. After receiving his Doctor of Music Degree in 1937, he moved to California to teach at the University of Southern California. After teaching there for seven years, he decided to devote his time to guest conducting and composing film scores.
+
+In 1933, Cailliet performed Reynaldo Hahn's Sarabande et Theme on bass clarinet with Leopold Stokowski and the Philadelphia Orchestra. In 1937, he made a new arrangement of Modest Mussorgsky's piano suite Pictures at an Exhibition. Cailliet also orchestrated three piano pieces of Sergei Rachmaninoff: the Serenade No. 5 from Morceaux de fantaisie Opus 3, the Prelude No. 5 in G minor from the 10 preludes of Opus 23, and the Prelude No. 5 in G major from the 13 preludes of Opus 32. He also made several arrangements for clarinet choir that have become staples of the repertoire.
+
+Cailliet also enjoyed a prolific career creating music for films. He contributed to nearly fifty films as either composer or arranger. Among the best known of these films are She Wore a Yellow Ribbon, The Ten Commandments (for which Elmer Bernstein wrote the score), and Gunfight at the O.K. Corral. His most famous orchestration is the virtuoso piece for piano and orchestra Midnight on the Cliffs by the pianist and composer Leonard Pennario, for the Andrew L. Stone's film Julie (1956).
+
+In the 1950s, he lived in Kenosha, Wisconsin where he worked for the musical instrument producer G. Leblanc Company and conducted the Kenosha Symphony Orchestra[1]. He died at Woodland Hills.
+
+Cailliet's name often appears as "Lucien Caillet" on printed music; this was merely a pervasive misspelling, according to the New Grove Dictionary of American Music.
+
+\begin{tabu}{ l l l l }
+\textsc{Title} & \textsc{Composer} & \textsc{Publisher} & \textsc{Difficulty}\\ \hline
+Elsa's Procession to the Cathedral&	Wagner, Richard&	Alfred&	MA\\Elsa's Procession to the Cathedral&	Wagner, Richard&	Remick Music&	MA\\Invocation of Alberich from Das Rheingold&	Wagner, Richard&	Sam Fox&	M\\Italian Girl in Algiers Overture, The&	Rossini, Gioacchino&	Sam Fox&	MA\\Italian in Algiers&	Rossini, Gioacchino&	Sam Fox/Belwin&	A\\La Gazza Ladra Overture&	Rossini, Gioacchino&	Sam Fox&	MA\\Nabucco Overture&	Verdi, Guiseppe&	Sam Fox&	M\\Overture to Die Fledermaus&	Strauss, Johann&	Boosey \& Hawkes&	M\\Phedre Overture&	Massenet, Jules&	Sam Fox&	M\\Prelude and Fugue in G Minor&	Bach, J. S.&	Carl Fischer&	ME\\Symphony No. 8, "Unfinished", I&	Schubert, Franz&	Carl Fischer&	MA\\Symphony No. 8, "Unfinished", II&	Schubert, Franz&	Carl Fischer&	MA\\The Pearl Fishers Overture&	Bizet, Georges&	Sam Fox&	M\\Waltzes from Der Rosenkavalier&	Strauss, Richard&	Boosey \& Hawkes&	MA\\
+\end{tabu}
+
+\null\newpage
+\section{Lawrence Odom}
+
+REWRITE -- COPIED FROM www.auxarcsmusic.com
+
+Lawrence Odom is a native of Heavener, Oklahoma. A graduate of the University of Oklahoma School of Music, he began his Air Force career in 1958 as a pianist with the Air Force Strings. After harp studies with Heinz Gunter in Germany and Jeanne Chalifoux in Alexandria, Virginia, Odom became the Air Force Band’s harpist and soloist for The White House and U.S. Department of State. Following his retirement from the Air Force in 1978, Odom was appointed principal harpist with the Kennedy Center Opera Orchestra and subsequently earned degrees in mathematics, chemistry and pharmacy. Still active as a performer and arranger, Odom retired from pharmacy and currently devotes himself full time to music. He continues to add to  his more than 200 arrangements and transcriptions held in the United States Air Force Band’s library.
+
+\null\newpage
+\section{Alfred Reed}
+
+REWRITE -- COPIED FROM WIKIPEDIA
+GET MY VERSION FROM TMTPIB
+
+Alfred Reed (January 25, 1921, New York – September 17, 2005, Miami, Florida) was an American, neo-classical composer, with more than two hundred published works for concert band, orchestra, chorus, and chamber ensemble to his name. He also traveled extensively as a guest conductor, performing in North America, Latin America, Europe and Asia.
+
+Reed was born in New York and began his formal music training at the age of ten. During World War II, he served in the 529th Army Air Force Band. Following his military service, he attended the Juilliard School of Music, studying under Vittorio Giannini, after which he was staff composer and arranger first for NBC, then for ABC. In 1953, he became the conductor of the Baylor Symphony Orchestra at Baylor University, where he received his B.M. in 1955 and his M.M. in 1956. His master's thesis, Rhapsody for Viola and Orchestra, was awarded the Luria Prize in 1959. He was a member of the Beta Tau Chapter of Phi Mu Alpha Sinfonia, the national fraternity for men in music.
+
+From 1955 to 1966, he was the executive editor of Hansen Publications, a music publisher. He was professor of music at the University of Miami where he worked with composer Clifton Williams from 1966 until the latter's death in 1976. Williams' office was across the hall from Reed's office in the UM School of Music, and Reed was chairman of the department of Music Media and Industry and director of the Music Industry Program at the time of his retirement. He established the very first college-level music business curriculum at the University of Miami in 1966, which led other colleges and universities to follow suit. At the time of his death, he had composition commissions that would have taken him to the age of 115. Many of Reed's wind band compositions have been released as CD recordings by the Tokyo Kosei Wind Orchestra.
+
+\begin{longtabu}{ l l l l }
+\caption{Table showing Alfred Reed's Bach arrangements}\\
+\textsc{Composer} & \textsc{Arranger} & \textsc{Title} & \textsc{Difficulty}\\ \hline
+J. S. Bach & Alfred Reed & Come, Sweet Death & 3\\
+J. S. Bach & Alfred Reed & My Jesus O What Anguish &  4\\
+J. S. Bach & Alfred Reed & Sleepers Awake & 4\\
+J. S. Bach & Alfred Reed & If Thou Be Near & 3\\
+J. S. Bach & Alfred Reed & Our Father Who Art in Heaven & 4\\
+J. S. Bach & Alfred Reed & My Heart Is Filled With Longing & 4\\
+J. S. Bach & Alfred Reed & Thus Do You Fare My Jesus & 4\\
+J. S. Bach & Alfred Reed & Sheep May Safely Graze & 4\\
+J. S. Bach & Alfred Reed & Deck Thyself My Soul With Gladness & 4\\
+J. S. Bach & Alfred Reed & Jesu, Joy of Man's Desiring & 4\\
+J. S. Bach & Alfred Reed & Arioso & 4\\
+J. S. Bach & Alfred Reed & God Still Lives & 3\\
+J. S. Bach & Alfred Reed & Forget Me Not O Dearest Lord & 4\\
+J. S. Bach & Alfred Reed & Prelude No. 4 & 3\\
+J. S. Bach & Alfred Reed & Who Will But Let Himself Be Guided & 4\\
+	
+\end{longtabu}
+
+
+Funiculi, Funicular
+Lookup others
+
+
+\null\newpage
+\section{Duthoit}
+

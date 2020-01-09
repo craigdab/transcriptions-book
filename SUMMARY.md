@@ -1,7 +1,8 @@
 # Table of contents
 
-* [transcriptions-book](README.md)
+* [Transcriptions for Band](README.md)
 * [Chapter 1](chapter1.md)
+* [Chapter 2](chapter-2.md)
 * [Chapter 2](chapter2.md)
 * [Chapter 3](chapter3.md)
 * [chapter4](chapter4.md)
